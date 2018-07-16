@@ -162,15 +162,12 @@ DATABASES = {
         'NAME':'opsmanage',
         'USER':'root',
         'PASSWORD':'Eelly@15W#96Sb7',
-        'HOST':'172.18.107.97'
+        'HOST':'172.18.107.97',
+        'PORT': 3306
 #         'ENGINE': 'django.db.backends.sqlite3',
 #         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
 }
-
-
-
-
 
 # Internationalization
 # https://docs.djangoproject.com/en/1.9/topics/i18n/
